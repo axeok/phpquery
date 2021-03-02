@@ -1,0 +1,10 @@
+{
+  "name": "axeok/phpquery",
+  "description": "",
+  "keywords": [
+    "yii2"
+  ],
+  "require": {
+    "php": ">=7.1.0",
+  }
+}
